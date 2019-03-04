@@ -1,3 +1,3 @@
-export FLASK_APP=imp-server
+export FLASK_APP=app
 export FLASK_ENV=development
 flask run
