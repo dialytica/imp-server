@@ -1,3 +1,3 @@
-set FLASK_APP=imp-server
-set FLASK_ENV=development
+export FLASK_APP=imp-server
+export FLASK_ENV=development
 flask run
